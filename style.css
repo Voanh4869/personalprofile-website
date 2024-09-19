@@ -1,0 +1,28 @@
+body{
+    background-image: url(raiden\ mei.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-attachment: fixed;
+}
+h1{
+    color: crimson;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+}
+a.social.icon{
+    text-decoration: none;
+    font-size: 50px;
+    color:blue;
+}
+a.social.icon:hover{
+    color:gray;
+
+}
+.image{
+    width: 120px;
+}
